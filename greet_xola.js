@@ -8,3 +8,4 @@ import greet from './greet.js'
 
 const styledMessage = chalk.bgGreen.black(greet('Xola'));
 console.log(styledMessage)
+console.log(greet('Lungile'))
